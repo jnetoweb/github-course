@@ -1,0 +1,3 @@
+aula 7 git-course
+obs o comando para acessar uma pasta no windows também é cd seguido do nome da pasta e não dir como informado na aula.
+alteracao1
