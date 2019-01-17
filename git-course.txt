@@ -6,3 +6,5 @@ alteracao2
 testando comando diff
 
 testando novamente comando diff
+
+subindo alteração para repositorio remoto
